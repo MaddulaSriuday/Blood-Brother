@@ -26,7 +26,8 @@
 
  <h2> Azure Technologies Used For this Project:</h2>
   <h3>1.Storage Acccounts</h3>
-  <h3>2.Static Web pages</h3>
+  <h3>2.Static Website</h3>
+  <h3>3.Containers</h3>
 
   <h2>The website has following Features and Functionalities</h2>
 <ul>Interactive and responsive UI.</ul>
