@@ -1,4 +1,4 @@
-#FRT-PROJECT: Blood-Brother 🏥
+<h1>#FRT-PROJECT: Blood-Brother 🏥</h1>
 <h2>This is the Final Project submitted for the completion  of Microsoft Future Ready Talent Virtual Internship.</h2>
 
 
@@ -22,11 +22,11 @@
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> -->
 <!--   </p> -->
 
-  ###Azure Technologies Used For this Project:
+ <h2> ###Azure Technologies Used For this Project:</h2>
   <h3>1.Storage Acccounts</h3>
   <h3>2.Static Web pages</h3>
 
-  ##The website has following Features and Functionalities
+  <h2>##The website has following Features and Functionalities</h2>
 <ul>Interactive and responsive UI.</ul>
 <ul>Has many graphical and visual innovative effects.</ul>
 <ul>Have an aesthetically pleasing visual design and architecture.</ul>
