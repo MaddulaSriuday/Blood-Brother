@@ -1,5 +1,5 @@
 # Blood-Brother 🏥
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?
+
 
 **Blood Brother** is a website that offers blood donation services to anyone in need. The website works :
 
