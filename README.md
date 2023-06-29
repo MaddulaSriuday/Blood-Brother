@@ -1,6 +1,8 @@
 <h1>#FRT-PROJECT: Blood-Brother 🏥</h1>
 <h2>This is the Final Project submitted for the completion  of Microsoft Future Ready Talent Virtual Internship.</h2>
 
+<h2>Project Link:https://bloodbrother.z29.web.core.windows.net/</h2>
+<h2>Project Demo Video Link:</h2>
 
 **Blood Brother** is a website that offers blood donation services to anyone in need. The website works :
 
