@@ -1,4 +1,5 @@
-# Blood-Brother 🏥
+#FRT-PROJECT: Blood-Brother 🏥
+<h2>This is the Final Project submitted for the completion  of Microsoft Future Ready Talent Virtual Internship.</h2>
 
 
 **Blood Brother** is a website that offers blood donation services to anyone in need. The website works :
@@ -21,5 +22,14 @@
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> -->
 <!--   </p> -->
 
-  
+  ###Azure Technologies Used For this Project:
+  <h3>1.Storage Acccounts</h3>
+  <h3>2.Static Web pages</h3>
 
+  ##The website has following Features and Functionalities
+<ul>Interactive and responsive UI.</ul>
+<ul>Has many graphical and visual innovative effects.</ul>
+<ul>Have an aesthetically pleasing visual design and architecture.</ul>
+<ul>Has collection of many web pages including Home,Medical Record,Patient's Registration, Contact Us, Health Bot related information etc.</ul>
+<ul>User can know about Health related problems through this website.</ul>
+<ul>Included the Health Bot to know Health related issues from the AI-powered virtual health assistants</ul>
